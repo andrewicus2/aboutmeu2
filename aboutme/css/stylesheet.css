@@ -1,0 +1,89 @@
+header{
+	text-align: center;
+}
+nav{
+	text-align: center;
+	background-color: #fad586;
+	display: block;
+	width: 850px;
+	line-height: 300%;
+}
+h1{
+	color: #184d47;
+	font-family: arial;
+	font-size: 50px;
+	font-variant: small-caps;
+}
+h2{
+	font-variant: small-caps;
+	font-size: 30px;
+	line-height: 10%;
+}
+
+a:link{
+	color: #184d47;
+}
+a:visited{
+	color: #184d47;
+}
+a:hover{
+	color: #7fad7d;
+	/*background-color: #96bb7c;*/
+}
+body{
+	background-color: #d6efc7;
+	color: #184d47;
+	font-family: arial;
+	width: 850px;
+}
+#spacer{
+	display: block;
+	width: 300px;
+	height: 40px;
+	visibility: hidden;
+}
+#spacer2{
+	background-color: yellow;
+	width: 265px;
+	display: inline-block;
+	visibility: hidden;
+}
+#pic{
+	text-align: center;
+	display: inline-block;
+	width: 300px;
+	line-height: 200%;
+}
+#aboutme{
+	float: right;
+	width: 500px;
+	height: 340px;
+	line-height: 120%;
+}
+#why{
+	display: inline-block;
+	width:850px;
+	height: 190px;
+	text-align: justify;
+	line-height: 120%;
+}
+#explain{
+	line-height: 150%;
+	text-align: center;
+}
+#films{
+	text-align: center;
+}
+#socials{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	font-size: 50px;
+}
+footer{
+	text-align: center;
+	background-color: #fad586;
+	display: block;
+	width: 850px;
+	height: 55px;
+}
